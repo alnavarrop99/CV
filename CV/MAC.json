@@ -1,0 +1,435 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Armando L.",
+      "surnames": "Navarro",
+      "title": "Hola mi nombre es Armando, soy un desarrollador web con experiencia en el lado del frontend, asi como un apasionado por el diseño y el codigo limpio en los proyectos que han sido parte de mi carrera.",
+      "description": "Soy Ingeniero Automático de profesión, pero desde que comencé mi carrera como programador web, he crecido como desarrollador tanto front-end, y disfruto mucho dedicándome a cada detalle en la evolucion del proyecto. Desde mis comienzos universitarios aprendi tecnologías relevantes para mi carrera, como la programación de sistemas y ed bajo nivel, pero el entorno de JS marco en mi vida un antes y un despues. Hoy aspiro a conocer tecnologias nuevas y en auge para mi desarrollo profesional y pasion personal, pero mis maximas aspiraciones es lograr convertirme en desarrollador fullsatck y participar en multiples proyectos opensource.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/31/929a53b3-cf89-40bc-9024-8088e71704da_linkedin-photo-51236.linkedin-photo-51236",
+        "alt": "23/12/31/929a53b3-cf89-40bc-9024-8088e71704da_linkedin-photo-51236.linkedin-photo-51236"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJUdXT2dU2CI0RsjYpccDhNxA)",
+        "country": "Surinam"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Entrevistas tecnicas",
+        "fact": "En mi anterior empleo realize diversas entrevistas tecnicas a los nuevos integrantes de la empresa, asi como los inicie en todo el desarrollo como nuevos miembros del equipo."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/armando-l-navarro-468303210"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/anavarro99dev"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Agilesolutions"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "Desarrollador Frontend con expectativas de Fullstack en los equipos de desarrollo de la compañia AgileSoulutions con cede en Brasil. He participado y mantenido activamente en dos proyectos corelacionados, con tecnologias novedosas tales como WebComponents y Microfrontends. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Workana, Fiver, UpWork, Freelancer.es, SoyFreelancer"
+        },
+        "roles": [
+          {
+            "name": "Freelancer",
+            "startDate": "2020-01-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Ofrecido servicios como desarrollador freelancer, orientado al frontend en diversas plataformas de este tipo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Marta Abreu de las Villas"
+        },
+        "roles": [
+          {
+            "name": "Estudiante",
+            "startDate": "2018-06-01",
+            "finishDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "Participacion en proyectos pequeños relacionados con el centro universitario, asi como el desarrollo de interfaces de aulas y bibliotecas virtuales. El proyecto mas grande en que me vi involurado consistia en mi tesis de pregrado realacionada con una plataforma IoT minimificada al maximo para su ejecucion embebida en dispositivios inteligentes como Arduinos y ESP32."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Microfrontend App",
+          "description": "Desarrollo de proyecto de empresa de una plataforma para gestionar la arquitectura y mantenimiento interno de la empresa. Toda la arquitectura se base en la tecnologia de micrfrontend, donde se implemento a traves de un monorepo gestionado con Nx, y se hicieron uso de tecnologias frontend como diagramas, tablas de busqueda avanzadas, maneo global del state, uso de una propia de la empresa."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-06-01",
+            "competences": [
+              {
+                "name": "Apollo",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Libreria de componentes",
+          "description": "Realizacion de una libreria de componentes a traves del freamwork LitElement, donde se desarrollo en un entorno de Monorepo, gestionado con Nx, y se utilizaron herramientas mas especializadas para la realizacion de estilos y modo oscuro como el style-dictionary."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "LitElement",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-04-01"
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Aplicacion de arquitectura Microfrontend",
+          "description": "Logre llevar a cabo la implementacion correcta de la arquitectura de microfrontend con NX y Webpack que requeria mi empresa luego de largos 8 meses de un desarrollo el cual no tenia un mantenimiento futuro."
+        },
+        "type": "achievement",
+        "publishingDate": "2023-06-01",
+        "tags": [
+          "arquitectura"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Webpack",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Web Component",
+          "description": "Logre la implementacion y publicacion correcta de toda una libreria de compnentes con estilos propios realizadas con el freamwork Lit."
+        },
+        "type": "post",
+        "publishingDate": "2023-02-01",
+        "tags": [
+          "arquitectura"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "LitElement",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Apollo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RxJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebComponents",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Frontned Developer",
+        "startDate": "2017-07-01",
+        "institution": {
+          "name": "W3School, Udemy, Platzi, Documentacion Officail, Libros, Youtube",
+          "description": "A comienzos de mi carrera universitaria me interese por el mundo web y el JavaScript. En un inicio era muy inexperimentado y novato y aprendia tecnologias obsoletas, sin embargo todo el camino hasta hoy fue muy necesario para lograr mis metas por la pasion que hoy me acompaña en el mundo del desarrollo tecnologico."
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero en Control Automatico ",
+        "startDate": "2018-01-01",
+        "institution": {
+          "name": "Marta Abreu de las Villas",
+          "description": "Ingenieria en control automatica y robotica en la universidad de mi pais natal."
+        },
+        "finishDate": "2022-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Arduino",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/armando-l-navarro-468303210",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/anavarro99dev",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "anavarro.develop99@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "55273381",
+          "countryCode": "+53"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Storybook",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
+          "name": "WebComponents",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "WebComponents",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaria trabajar en un buen entorno de profesionales, donde la critica y discusiones de mi trabajo me ayuden a crecer para ser mejor que ayer. Un trabajo remoto pero con compromiso con sus trabajadores.",
+    "projects": [
+      {
+        "name": "Libreria de componentes"
+      },
+      {
+        "name": "Microfrontend App"
+      }
+    ]
+  }
+}
