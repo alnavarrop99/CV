@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.5"
   },
   "aboutMe": {
@@ -344,19 +344,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Autonomy in learning",
+          "name": "Aprendizaje Continuo",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Continuous learning",
+          "name": "Autonomía en el aprendizaje",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Team player",
+          "name": "Trabajo en equipo",
           "type": "practice"
         }
       }
