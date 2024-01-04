@@ -13,6 +13,10 @@
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/31/929a53b3-cf89-40bc-9024-8088e71704da_linkedin-photo-51236.linkedin-photo-51236",
         "alt": "23/12/31/929a53b3-cf89-40bc-9024-8088e71704da_linkedin-photo-51236.linkedin-photo-51236"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJtUx6DwdJzYgRGqQQkVL3jHk)",
+        "country": "Cuba"
       }
     },
     "interestingFacts": [
