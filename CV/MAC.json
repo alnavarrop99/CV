@@ -219,6 +219,12 @@
       },
       {
         "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
         }
@@ -231,7 +237,19 @@
       },
       {
         "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LitElement",
           "type": "technology"
         }
       },
@@ -244,6 +262,12 @@
       {
         "skill": {
           "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RollupJS",
           "type": "technology"
         }
       },
@@ -267,6 +291,12 @@
       },
       {
         "skill": {
+          "name": "Vite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Vue",
           "type": "technology"
         }
@@ -274,6 +304,12 @@
       {
         "skill": {
           "name": "WebComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
           "type": "technology"
         }
       }
