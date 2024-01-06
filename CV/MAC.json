@@ -261,12 +261,6 @@
       },
       {
         "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "RollupJS",
           "type": "technology"
         }
@@ -310,6 +304,12 @@
       {
         "skill": {
           "name": "Webpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zustand",
           "type": "technology"
         }
       }
