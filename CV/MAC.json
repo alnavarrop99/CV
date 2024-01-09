@@ -262,8 +262,8 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Aplicacion de arquitectura Microfrontend",
-          "description": "Logre llevar a cabo la implementacion correcta de la arquitectura de microfrontend con NX y Webpack que requeria mi empresa luego de largos 8 meses de un desarrollo el cual no tenia un mantenimiento futuro."
+          "name": "Microfrontends App",
+          "description": "Durante varias semanas de investigacion y pruebas, logre idear, guiar, implementar y construir una compleja aplicación de microfrontend, que aun está en desarrollo. Llevar a cabo esta tarea no fue fácil, la difícil integración de cada entorno de microfrontend con cada herramienta, librerías propias de componente, y a su vez con la integración de cada microservicio separado del backend, producen un entorno complejo en el desarrollo. Pero la arquitectura ya estaba en la mesa y era necesario lograrla sin limitaciones y lo mejor optimizada."
         },
         "type": "achievement",
         "publishingDate": "2023-06-01",
@@ -272,7 +272,43 @@
         ],
         "relatedCompetences": [
           {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Cypress",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "PostCSS",
+            "type": "technology"
+          },
+          {
             "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "WebComponents",
             "type": "technology"
           },
           {
