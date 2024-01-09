@@ -529,7 +529,12 @@
         "startDate": "2018-01-01",
         "institution": {
           "name": "Marta Abreu de las Villas",
-          "description": "Ingeniería en control automática y robótica en la universidad de mi país natal. Aprendí electrónica y la programación de sistemas de bajos recursos con C, C++ y Python, así como muchas asignaturas relacionadas con el Control y Mediciones en el ámbito industrial."
+          "description": "Ingeniería en control automática y robótica en la universidad de mi país natal. Aprendí electrónica y la programación de sistemas de bajos recursos con C, C++ y Python, así como muchas asignaturas relacionadas con el Control y Mediciones en el ámbito industrial.",
+          "URL": "https://www.uclv.edu.cu",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/09/c7159c48-01c6-4b7a-883b-a3aadf682fb0_marta.png",
+            "alt": "marta.png"
+          }
         },
         "finishDate": "2022-12-01",
         "linkedCompetences": [
