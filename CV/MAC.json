@@ -140,6 +140,10 @@
               {
                 "name": "Vue",
                 "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
