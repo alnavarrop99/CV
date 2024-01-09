@@ -40,7 +40,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Agilesolutions"
+          "name": "Agilesolutions",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/09/afc4b281-e971-49ef-8895-7f76b66641c7_storybook.jpg",
+            "alt": "storybook.brand.jpg"
+          },
+          "URL": "https://agilesolutions.com/en/"
         },
         "roles": [
           {
@@ -48,7 +53,53 @@
             "startDate": "2023-01-01",
             "challenges": [
               {
-                "description": "Desarrollador Frontend con expectativas de Fullstack en los equipos de desarrollo de la compañia AgileSoulutions con cede en Brasil. He participado y mantenido activamente en dos proyectos corelacionados, con tecnologias novedosas tales como WebComponents y Microfrontends. "
+                "description": "Frontend Developer Agilesolutions, Brasil\nCon expectativas de lograr ser un fullstack developer, comencé en los equipos de desarrollo del frontend de la compañía Agilesoulutions, Brasil (remoto 100%%). He participado y mantenido activamente en dos proyectos correlacionados, con tecnologías novedosas, algunas bastante complicadas, pero todas orientadas a proyectos frontends hoy en producción. Todo un año de experiencia laboral me ha enseñado a valorar mi tiempo, establecer buenos hábitos, y participar con personas geniales y maravillosas, que guían en el mejor futuro como developer."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Babel",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "RollupJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
               }
             ]
           }
@@ -358,7 +409,7 @@
         "startDate": "2018-01-01",
         "institution": {
           "name": "Marta Abreu de las Villas",
-          "description": "Ingenieria en control automatica y robotica en la universidad de mi pais natal."
+          "description": "Ingeniería en control automática y robótica en la universidad de mi país natal. Aprendí electrónica y la programación de sistemas de bajos recursos con C, C++ y Python, así como muchas asignaturas relacionadas con el Control y Mediciones en el ámbito industrial."
         },
         "finishDate": "2022-12-01",
         "linkedCompetences": [
