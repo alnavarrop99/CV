@@ -493,7 +493,11 @@
         "startDate": "2017-07-01",
         "institution": {
           "name": "W3School, Udemy, Platzi, Documentacion Officail, Libros, Youtube",
-          "description": "A comienzos de mi carrera universitaria me interesé por el mundo web y el JavaScript. En un inicio era poco experimentado y novato y aprendía tecnologías obsoletas, sin embargo, todo el camino hasta hoy fue muy necesario para lograr mis metas por la pasión que hoy me acompaña en el mundo del desarrollo tecnológico."
+          "description": "A comienzos de mi carrera universitaria me interesé por el mundo web y el JavaScript. En un inicio era poco experimentado y novato y aprendía tecnologías obsoletas, sin embargo, todo el camino hasta hoy fue muy necesario para lograr mis metas por la pasión que hoy me acompaña en el mundo del desarrollo tecnológico.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/09/3b6c1f57-5a00-4ba5-a92d-50c3e433dba5_download-(2).jpeg",
+            "alt": "download (2).jpeg"
+          }
         },
         "linkedCompetences": [
           {
