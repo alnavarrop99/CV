@@ -107,7 +107,12 @@
       },
       {
         "organization": {
-          "name": "Workana, Fiver, UpWork, Freelancer.es, SoyFreelancer"
+          "name": "Workana, Fiver, UpWork, Freelancer.es, SoyFreelancer",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/09/f35ad850-8aef-4a2f-adea-3b0455d859a7_download.jpeg",
+            "alt": "download.jpeg"
+          },
+          "URL": "https://www.freelancer.es"
         },
         "roles": [
           {
@@ -116,7 +121,25 @@
             "finishDate": "2021-12-01",
             "challenges": [
               {
-                "description": "Ofrecido servicios como desarrollador freelancer, orientado al frontend en diversas plataformas de este tipo."
+                "description": "Freelancer\nTípicos inicios de un joven desarrollador buscando por donde comenzar a monetizar sus conocimientos. Mis faltas de experiencias me obligaron a buscar en todo tipo de servicios freelancer, donde podía a un precio adecuado ofrecer mis conocimientos. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
               }
             ]
           }
