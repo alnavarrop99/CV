@@ -93,7 +93,7 @@
       {
         "details": {
           "name": "Microfrontend App",
-          "description": "Desarrollo de proyecto de empresa de una plataforma para gestionar la arquitectura y mantenimiento interno de la empresa. Toda la arquitectura se base en la tecnologia de micrfrontend, donde se implemento a traves de un monorepo gestionado con Nx, y se hicieron uso de tecnologias frontend como diagramas, tablas de busqueda avanzadas, maneo global del state, uso de una propia de la empresa."
+          "description": "Microfrontend Aplications: \nUna tecnología hermosa y relevante, la cual estudie, implemente, y enseñe en mi empresa, y su nivel de complejidad nunca fue una excusa para seguir y salir adelante en su desarrollo. "
         },
         "type": "sideProject",
         "roles": [
