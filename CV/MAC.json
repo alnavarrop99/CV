@@ -324,11 +324,7 @@
       {
         "details": {
           "name": "Web Component",
-          "description": "Web Component Library\nLogre la implementación y publicación correcta de toda una librería de componentes neomòrfica, acompañado en el desarrollo junto a los demás miembros del equipo. Con nuestros propios diseño en Figma, mantuvimos el desarrollo con LitElement en sé última versión y junto al Storybook obtuvimos los resultados deseados. Aún hoy participo en todos los procesos de mantenimiento e integración de nuevas características como el DarkMode con la herramienta de style-dictionary, etc.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/09/6e5af9a7-e389-4f10-986b-61f32ff0051d_download.png",
-            "alt": "download.png"
-          }
+          "description": "Web Component Library\nLogre la implementación y publicación correcta de toda una librería de componentes neomòrfica, acompañado en el desarrollo junto a los demás miembros del equipo. Con nuestros propios diseño en Figma, mantuvimos el desarrollo con LitElement en sé última versión y junto al Storybook obtuvimos los resultados deseados. Aún hoy participo en todos los procesos de mantenimiento e integración de nuevas características como el DarkMode con la herramienta de style-dictionary, etc."
         },
         "type": "post",
         "publishingDate": "2023-02-01",
@@ -494,6 +490,7 @@
         "institution": {
           "name": "W3School, Udemy, Platzi, Documentacion Officail, Libros, Youtube",
           "description": "A comienzos de mi carrera universitaria me interesé por el mundo web y el JavaScript. En un inicio era poco experimentado y novato y aprendía tecnologías obsoletas, sin embargo, todo el camino hasta hoy fue muy necesario para lograr mis metas por la pasión que hoy me acompaña en el mundo del desarrollo tecnológico.",
+          "URL": "https://www.w3schools.com",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/09/3b6c1f57-5a00-4ba5-a92d-50c3e433dba5_download-(2).jpeg",
             "alt": "download (2).jpeg"
