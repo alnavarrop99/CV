@@ -610,12 +610,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": ".Net Core",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Frontend Developer"
       ]
