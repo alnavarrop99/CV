@@ -40,20 +40,15 @@
     "jobs": [
       {
         "organization": {
-          "name": "MATCOR",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/25/e23dde80-8ff6-42d1-92df-06dedc8f3516_brandx120.svg",
-            "alt": "brandx120.svg"
-          }
+          "name": "MATCOR"
         },
         "roles": [
           {
-            "name": "Frontend Developer",
+            "name": "Freelancer",
             "startDate": "2024-02-01",
-            "finishDate": "2024-04-01",
             "challenges": [
               {
-                "description": "Desarrollo completo de plataforma de prestamos bancarios en Colombia"
+                "description": "Desarrollo completo de plataforma de préstamos bancarios en Colombia"
               }
             ],
             "competences": [
