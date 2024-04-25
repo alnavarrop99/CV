@@ -409,6 +409,38 @@
             "finishDate": "2023-04-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "LIoT",
+          "description": "Tesis de pregrado de universidad de plataforma IoT para redes wifi en dispositivos inteligentes de bajos recursos",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/25/64d69313-d1a8-4e6b-b94e-b175dd9d19ea_vivaldi-2024-04-22-2.png",
+            "alt": "vivaldi 2024-04-22 20.00.10 liot.netlify.app 9c6e4f2fb9a5.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-12-01"
+          }
+        ]
       }
     ]
   },
@@ -702,6 +734,9 @@
     "desiredJobDescription": "Me gustaria trabajar en un buen entorno de profesionales, donde la critica y discusiones de mi trabajo me ayuden a crecer para ser mejor que ayer. Un trabajo remoto pero con compromiso con sus trabajadores.",
     "goodPractices": "Soy un apasionado del código limpio y de las buenas prácticas de programación, de la sencillez, y del código óptimo, sobre la velocidad de finalización del mismo, respeto y organizo mi tiempo para conseguir el mejor resultado al que pueda llegar, y aprender en cada detalle del proceso. Me fascinan las nuevas tecnologías que hoy luchan en el mercado tecnológico, pero considero muy importante respetar los patrones de diseños que durante tantos años nos han guiado antes de una tecnología novedosa en mis proyectos. Mi meta en el proceso de desarrollo es simple: lograr llevar lo más complicado a algo sencillo, y a su vez, a algo hermoso.",
     "projects": [
+      {
+        "name": "LIoT"
+      },
       {
         "name": "Libreria de componentes"
       },
