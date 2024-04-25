@@ -384,7 +384,7 @@
       },
       {
         "details": {
-          "name": "Libreria de componentes",
+          "name": "Webcomponent",
           "description": "Web Components Lib Neummorphic\nLas novedades en el desarrollo frontend cada día se inclinan más a tener su propia librería de desarrollo, no importa el freamworks que se use, es una muy buena práctica y arquitectura. En lo personal, trabajé con LitElement, y a pesar de los problemas de integración con React obtuvimos el resultado esperado en el desarrollo."
         },
         "type": "sideProject",
@@ -738,13 +738,13 @@
         "name": "LIoT"
       },
       {
-        "name": "Libreria de componentes"
-      },
-      {
         "name": "MATCOR"
       },
       {
         "name": "Microfrontend App"
+      },
+      {
+        "name": "Webcomponent"
       },
       {
         "name": "daisyUi2React"
