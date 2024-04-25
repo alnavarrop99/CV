@@ -266,63 +266,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Microfrontends App",
-          "description": "Durante varias semanas de investigacion y pruebas, logre idear, guiar, implementar y construir una compleja aplicación de microfrontend, que aun está en desarrollo. Llevar a cabo esta tarea no fue fácil, la difícil integración de cada entorno de microfrontend con cada herramienta, librerías propias de componente, y a su vez con la integración de cada microservicio separado del backend, producen un entorno complejo en el desarrollo. Pero la arquitectura ya estaba en la mesa y era necesario lograrla sin limitaciones y lo mejor optimizada."
-        },
-        "type": "achievement",
-        "publishingDate": "2023-06-01",
-        "tags": [
-          "arquitectura"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Cypress",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Jest",
-            "type": "technology"
-          },
-          {
-            "name": "PostCSS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "Tailwind",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          },
-          {
-            "name": "WebComponents",
-            "type": "technology"
-          },
-          {
-            "name": "Webpack",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Web Component",
           "description": "Web Component Library\nLogre la implementación y publicación correcta de toda una librería de componentes neomòrfica, acompañado en el desarrollo junto a los demás miembros del equipo. Con nuestros propios diseño en Figma, mantuvimos el desarrollo con LitElement en sé última versión y junto al Storybook obtuvimos los resultados deseados. Aún hoy participo en todos los procesos de mantenimiento e integración de nuevas características como el DarkMode con la herramienta de style-dictionary, etc."
         },
