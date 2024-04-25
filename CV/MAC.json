@@ -273,6 +273,45 @@
     "projects": [
       {
         "details": {
+          "name": "daisyUi2React",
+          "description": "Creacion de libreria de componentes en React a partir de la libreria daisyUI desarrollada en tailwindcss"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-02-01",
+            "competences": [
+              {
+                "name": "Playwright",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Microfrontend App",
           "description": "Microfrontend Aplications: \nUna tecnología hermosa y relevante, la cual estudie, implemente, y enseñe en mi empresa, y su nivel de complejidad nunca fue una excusa para seguir y salir adelante en su desarrollo. Implementamos todo el proceso con Nx y así aprovechar al máximo los monorepos, donde cada integración de microfrontends enlazaba una integración de microservicios, el resultado fue una arquitectura robusta e independiente de parte de los equipos de desarrollo."
         },
@@ -632,6 +671,9 @@
       },
       {
         "name": "Microfrontend App"
+      },
+      {
+        "name": "daisyUi2React"
       }
     ]
   }
