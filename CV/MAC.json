@@ -274,7 +274,11 @@
       {
         "details": {
           "name": "MATCOR",
-          "description": "Plataforma de creditos comerciales en Colombia"
+          "description": "Plataforma de creditos comerciales en Colombia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/25/55f58792-430a-4cc0-92b0-a0b679e8665b_brandx120.svg",
+            "alt": "brandx120.svg"
+          }
         },
         "type": "sideProject",
         "roles": [
