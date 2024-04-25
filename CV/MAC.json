@@ -262,37 +262,6 @@
           }
         ]
       }
-    ],
-    "publicArtifacts": [
-      {
-        "details": {
-          "name": "Web Component",
-          "description": "Web Component Library\nLogre la implementación y publicación correcta de toda una librería de componentes neomòrfica, acompañado en el desarrollo junto a los demás miembros del equipo. Con nuestros propios diseño en Figma, mantuvimos el desarrollo con LitElement en sé última versión y junto al Storybook obtuvimos los resultados deseados. Aún hoy participo en todos los procesos de mantenimiento e integración de nuevas características como el DarkMode con la herramienta de style-dictionary, etc."
-        },
-        "type": "post",
-        "publishingDate": "2023-02-01",
-        "tags": [
-          "arquitectura"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "Jest",
-            "type": "technology"
-          },
-          {
-            "name": "LitElement",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "Storybook",
-            "type": "technology"
-          }
-        ]
-      }
     ]
   },
   "knowledge": {
