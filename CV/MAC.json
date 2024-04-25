@@ -33,6 +33,10 @@
       {
         "type": "github",
         "URL": "https://github.com/anavarro99dev"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/anavarro99dev"
       }
     ]
   },
@@ -675,6 +679,10 @@
         {
           "URL": "https://github.com/anavarro99dev",
           "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/anavarro99dev",
+          "type": "twitter"
         }
       ],
       "contactMails": [
