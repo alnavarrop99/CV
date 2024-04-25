@@ -395,11 +395,19 @@
             "startDate": "2023-01-01",
             "competences": [
               {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
                 "name": "LitElement",
                 "type": "technology"
               },
               {
                 "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
                 "type": "technology"
               },
               {
