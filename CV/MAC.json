@@ -410,6 +410,7 @@
         "details": {
           "name": "LIoT",
           "description": "Tesis de pregrado de universidad de plataforma IoT para redes wifi en dispositivos inteligentes de bajos recursos",
+          "URL": "https://liot.netlify.app",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/25/64d69313-d1a8-4e6b-b94e-b175dd9d19ea_vivaldi-2024-04-22-2.png",
             "alt": "vivaldi 2024-04-22 20.00.10 liot.netlify.app 9c6e4f2fb9a5.png"
