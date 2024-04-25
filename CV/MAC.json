@@ -40,6 +40,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "MATCOR",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/25/e23dde80-8ff6-42d1-92df-06dedc8f3516_brandx120.svg",
+            "alt": "brandx120.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2024-02-01",
+            "finishDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollo completo de plataforma de prestamos bancarios en Colombia"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Zustand",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Agilesolutions",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/09/afc4b281-e971-49ef-8895-7f76b66641c7_storybook.jpg",
