@@ -227,10 +227,19 @@
                 "type": "technology"
               },
               {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
                 "name": "WebComponents",
                 "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2024-02-01"
           }
         ]
       },
