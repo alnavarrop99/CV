@@ -273,6 +273,38 @@
     "projects": [
       {
         "details": {
+          "name": "MATCOR",
+          "description": "Plataforma de creditos comerciales en Colombia"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-02-01",
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-04-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "daisyUi2React",
           "description": "Creacion de libreria de componentes en React a partir de la libreria daisyUI desarrollada en tailwindcss"
         },
@@ -668,6 +700,9 @@
     "projects": [
       {
         "name": "Libreria de componentes"
+      },
+      {
+        "name": "MATCOR"
       },
       {
         "name": "Microfrontend App"
