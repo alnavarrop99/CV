@@ -348,7 +348,7 @@
       },
       {
         "details": {
-          "name": "Microfrontend App",
+          "name": "PCR",
           "description": "Microfrontend Aplications: \nUna tecnología hermosa y relevante, la cual estudie, implemente, y enseñe en mi empresa, y su nivel de complejidad nunca fue una excusa para seguir y salir adelante en su desarrollo. Implementamos todo el proceso con Nx y así aprovechar al máximo los monorepos, donde cada integración de microfrontends enlazaba una integración de microservicios, el resultado fue una arquitectura robusta e independiente de parte de los equipos de desarrollo."
         },
         "type": "sideProject",
@@ -741,7 +741,7 @@
         "name": "MATCOR"
       },
       {
-        "name": "Microfrontend App"
+        "name": "PCR"
       },
       {
         "name": "Webcomponent"
