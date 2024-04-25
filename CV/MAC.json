@@ -306,7 +306,8 @@
       {
         "details": {
           "name": "daisyUi2React",
-          "description": "Creacion de libreria de componentes en React a partir de la libreria daisyUI desarrollada en tailwindcss"
+          "description": "Creacion de libreria de componentes en React a partir de la libreria daisyUI desarrollada en tailwindcss",
+          "URL": "https://github.com/alnavarrop99/daisy-ui-react"
         },
         "type": "openSource",
         "roles": [
